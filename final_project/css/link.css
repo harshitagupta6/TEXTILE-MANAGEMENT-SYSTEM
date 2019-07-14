@@ -1,0 +1,13 @@
+.link1 a{
+font-family:Segoe UI,Arial,sans-serif;
+font-size:20px;
+color:#FFFFFFF;
+text-decoration:none;
+}
+
+.link1 a:hover{
+color:#0a813c;
+font-style:italic;
+}
+
+
